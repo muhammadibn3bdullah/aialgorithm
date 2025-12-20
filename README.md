@@ -43,5 +43,6 @@ This project was developed as part of the **Artificial Intelligence (CS 365)** c
 
 ### 1. Clone the Repository
 ```bash
+
 git clone https://github.com/muhammadibn3bdullah/aialgorithm.git
 cd aialgorithm
