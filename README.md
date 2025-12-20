@@ -43,5 +43,5 @@ This project was developed as part of the **Artificial Intelligence (CS 365)** c
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YourUsername/Farmer-Puzzle-AI.git](https://github.com/YourUsername/Farmer-Puzzle-AI.git)
-cd Farmer-Puzzle-AI
+git clone https://github.com/muhammadibn3bdullah/aialgorithm.git
+cd aialgorithm
