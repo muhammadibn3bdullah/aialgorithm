@@ -1,3 +1,4 @@
+[![Python application](https://github.com/muhammadibn3bdullah/aialgorithm/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/muhammadibn3bdullah/aialgorithm/actions/workflows/python-app.yml)
 # 🌾 Farmer, Wolf, Sheep, and Cabbage AI Solver
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
